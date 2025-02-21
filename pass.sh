@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#CREDITS: https://github.com/drumpinicho/ex3301pass
 
 USB="usb2_sda1"
 
