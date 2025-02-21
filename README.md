@@ -91,7 +91,7 @@ Ignore checking model ID!
 # CREDITS 
 [credit drumpinicho](https://bandaancha.eu/foros/zyxel-ex3301-t0-obtencion-contrasena-1749511)
 
-[github pini goat](https://github.com/drumpinicho/ex3301pass)
+[github pini](https://github.com/drumpinicho/ex3301pass)
 
 [official updates](https://www.zyxel.com/global/en/support/download?model=dx3301-t0)
 
