@@ -1,6 +1,6 @@
 # DX3301-T0 (work in progress)
 ## Root and supervisor access
-I have tested [`drumpinicho`](https://github.com/drumpinicho/ex3301pass) method on this versions on the DX3301-T0
+I have tested [`drumpinicho`](https://github.com/drumpinicho/ex3301pass) method (for the EX3301-T0) on this versions on the DX3301-T0
 | Version | Works |
 | ------ | ------|
 | V5.50(ACEF.0)b2_20220715 | ✅ |
