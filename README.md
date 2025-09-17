@@ -1,4 +1,9 @@
 # DX3301-T0 (work in progress)
+
+<div align="center">
+<img src="DX3301.png" alt="DX3301-T0 Image" width="30%">
+</div>
+
 ## Root and supervisor access
 I have tested [`drumpinicho`](https://github.com/drumpinicho/ex3301pass) method (for the EX3301-T0) on this versions on the DX3301-T0
 | Version | Works |
